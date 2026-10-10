@@ -1,3 +1,5 @@
+![Gabriel Zorzanelli - Desenvolvedor full stack em formação](./banner.svg)
+
 # Olá, eu sou o Gabriel 👋
 
 Estudante de **Sistemas de Informação** na UniFOA e de **Gestão Financeira** na Unicid.
