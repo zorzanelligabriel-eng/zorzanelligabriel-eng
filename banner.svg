@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-label="Gabriel Zorzanelli - Desenvolvedor full stack em formação">
+<defs>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#2FBF71" stop-opacity="0.26"/>
+<stop offset="100%" stop-color="#2FBF71" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1584" height="396" fill="#07110D"/>
+<path stroke="#B8F5D2" stroke-opacity="0.08" stroke-width="1" fill="none" d="M63 44h6M66 41v6M63 148h6M66 145v6M63 252h6M66 249v6M63 356h6M66 353v6M195 44h6M198 41v6M195 148h6M198 145v6M195 252h6M198 249v6M195 356h6M198 353v6M327 44h6M330 41v6M327 148h6M330 145v6M327 252h6M330 249v6M327 356h6M330 353v6M459 44h6M462 41v6M459 148h6M462 145v6M459 252h6M462 249v6M459 356h6M462 353v6M591 44h6M594 41v6M591 148h6M594 145v6M591 252h6M594 249v6M591 356h6M594 353v6M723 44h6M726 41v6M723 148h6M726 145v6M723 252h6M726 249v6M723 356h6M726 353v6M855 44h6M858 41v6M855 148h6M858 145v6M855 252h6M858 249v6M855 356h6M858 353v6M987 44h6M990 41v6M987 148h6M990 145v6M987 252h6M990 249v6M987 356h6M990 353v6M1119 44h6M1122 41v6M1119 148h6M1122 145v6M1119 252h6M1122 249v6M1119 356h6M1122 353v6M1251 44h6M1254 41v6M1251 148h6M1254 145v6M1251 252h6M1254 249v6M1251 356h6M1254 353v6M1383 44h6M1386 41v6M1383 148h6M1386 145v6M1383 252h6M1386 249v6M1383 356h6M1386 353v6M1515 44h6M1518 41v6M1515 148h6M1518 145v6M1515 252h6M1518 249v6M1515 356h6M1518 353v6"/>
+<circle cx="1380" cy="204" r="200" fill="url(#glow)"/>
+<g stroke-linejoin="round" stroke-width="1.5">
+<g stroke="#1F7A4D">
+<polygon points="1250,270 1380,332 1380,348 1250,286" fill="#08160F"/>
+<polygon points="1510,270 1380,332 1380,348 1510,286" fill="#0A1C13"/>
+<polygon points="1250,270 1380,208 1510,270 1380,332" fill="#0B2016"/>
+<path fill="none" stroke-opacity="0.6" d="M1293.3 290.7L1423.3 228.7M1336.7 311.3L1466.7 249.3M1293.3 249.3L1423.3 311.3M1336.7 228.7L1466.7 290.7"/>
+</g>
+<g stroke="#2FBF71">
+<polygon points="1250,200 1380,262 1380,278 1250,216" fill="#0A1B12"/>
+<polygon points="1510,200 1380,262 1380,278 1510,216" fill="#0C2317"/>
+<polygon points="1250,200 1380,138 1510,200 1380,262" fill="#0E2A1B"/>
+<path fill="none" stroke-opacity="0.6" d="M1293.3 220.7L1423.3 158.7M1336.7 241.3L1466.7 179.3M1293.3 179.3L1423.3 241.3M1336.7 158.7L1466.7 220.7"/>
+</g>
+<g stroke="#3DDC84">
+<polygon points="1250,130 1380,192 1380,208 1250,146" fill="#0C2116"/>
+<polygon points="1510,130 1380,192 1380,208 1510,146" fill="#0F2B1C"/>
+<polygon points="1250,130 1380,68 1510,130 1380,192" fill="#123422"/>
+<path fill="none" stroke-opacity="0.7" d="M1293.3 150.7L1423.3 88.7M1336.7 171.3L1466.7 109.3M1293.3 109.3L1423.3 171.3M1336.7 88.7L1466.7 150.7"/>
+</g>
+</g>
+<g fill="#3DDC84">
+<circle cx="1380" cy="130" r="5"/>
+<circle cx="1336.7" cy="109.3" r="3"/>
+<circle cx="1423.3" cy="150.7" r="3"/>
+</g>
+<rect x="96" y="62" width="236" height="32" rx="16" fill="none" stroke="#24503A"/>
+<circle cx="116" cy="78" r="4" fill="#3DDC84"/>
+<text x="130" y="83" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="14" fill="#D3E6DA">Estágio em tecnologia</text>
+<text x="92" y="190" font-family="'Segoe UI Light','Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="86" font-weight="300" fill="#EEF5F0">Gabriel Zorzanelli</text>
+<text x="96" y="234" font-family="'Segoe UI Light','Segoe UI','Helvetica Neue',system-ui,sans-serif" font-size="27" font-weight="400" fill="#3DDC84">Desenvolvedor full stack em formação</text>
+<text x="96" y="280" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="23" fill="#EEF5F0">&gt; aprender. construir. entregar. <tspan fill="#3DDC84">█</tspan></text>
+<rect x="96" y="308" width="560" height="1" fill="#1E3A2C"/>
+<text x="96" y="338" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="14" fill="#93AD9F">Estudante de Sistemas de Informação · UniFOA</text>
+</svg>
