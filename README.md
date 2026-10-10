@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**zorzanelligabriel-eng/zorzanelligabriel-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** na UniFOA e de **Gestão Financeira** na Unicid.
+Atualmente sou estagiário de informática na Câmara Municipal de Volta Redonda.
 
-Here are some ideas to get you started:
+Gosto de unir tecnologia e finanças: entender o problema de negócio e construir a solução.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- **Front-end:** JavaScript, React, HTML, CSS
+- **Back-end:** Node.js
+- **Banco de dados:** SQL
+
+## Projetos
+
+- **LocaFácil:** plataforma de locação de caçambas e descarte correto de resíduos, apresentada no 4º Congresso Tudo é Ciência (UniFOA).
+
+## Contato
+
+- LinkedIn: [gabriel-zorzanelli](https://www.linkedin.com/in/gabriel-zorzanelli-15a796334)
